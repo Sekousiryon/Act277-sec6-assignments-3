@@ -16,16 +16,12 @@
                <li>Watching Movies</li>
                <li>Programming Language</li>
               
-                 <p>color</p>
-                   <ul type="circle">
+            <p>color I like</p>
+                   <ul type="Square">
                    <li>blue</li>
                    <li>Green</li>
                    <li>white</li>
-                 </ul>
-               </li>
-             </ul>
-          </div>
-         <hr>
+                 
   
 
 
