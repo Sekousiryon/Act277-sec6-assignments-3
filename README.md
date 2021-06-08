@@ -7,7 +7,7 @@
        <meta name="viewport" contengt="width=device=width,initial-scale=1.0">
 </head>
       <tittle>list of things</tittle>
-<body style= "background-color: blue;">
+<body style= "background-color: rgba(180,10,120);">
      <dive style"">
            <P>HELLO</P>
            <ul type="square">
@@ -49,42 +49,13 @@
  </li>
        <li>Play
             <ol type="I">
-                 <li>Retirement</li>
-                <li>Recreation</li>
-         
-                <li>Aircraft 
-                     <ol type="I">
-                     <li>General Aviation (piston-driven engines)</li>
-                     
-                          <li>Single-Engine Aircraft</li>
-                          <li>Tail Wheel</li>
-                           <li>Tricycle</li>
-                   <li> Engine
-                      <li>Motorcycle engine</li>
-                      <li>Dual-Engine Aircraft</li>
-                      <li>Wing-mounted engines
-                           <li>Push-pull fuselage-mounted engines</li>
-                              </ol>
-                         </ol>
-                    </ul>
+                 <li>football </li>
+                <li>Basketball </li>
+         <P>Types of enginge</p>
+                <ul type="squeeze">
+                <li>Motorcycle engine</li>
+                <li>aircraft engine</li>
+                <li>car engine</li>
 
-                    <ul type"disc">
-                        <li>Commercial Aviation(jet engines)</li>
-                        <ol type="">   
-                            <li>Dual-Engine</li>
-                            <ol type"a">
-                                       <li>Wing-mounted engine</li>
-                                       <li>fuselage-mounted engines</li>
-                          </ol>
-                          <li>Tri-Engine</li>
-                          <ol type="i"> 
-                               <li>Third engine in vertical stabilizer</li>
-                               <li>Third engine in fuselage</li>
-
-                                  </ol>
-                           </ol>
-                     </ul>
-              </div>
-      </body>
-   </body>
-      </html>
+ </body>
+</head>
