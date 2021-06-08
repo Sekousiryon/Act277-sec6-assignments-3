@@ -9,11 +9,13 @@
       <tittle>list of things</tittle>
 <body style= "background-color: rgba(180,10,120);">
      <dive style"">
-           <P>HELLO</P>
+           <P>thing are like</P>
            <ul type="square">
                <li>Reading Books</li>
                <li>Watching Movies</li>
                <li>Programming Language</li>
+              
+                 <p>color</>
                    <ul type="circle">
                    <li>blue</li>
                    <li>Green</li>
@@ -57,5 +59,11 @@
                 <li>aircraft engine</li>
                 <li>car engine</li>
 
+          <p>moving object</p>
+              <ul type="squeeze">
+              <li>ship</li>
+              <li>boat</li>
+              <li/plane</li>
+              
  </body>
 </head>
