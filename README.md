@@ -7,7 +7,7 @@
        <meta name="viewport" contengt="width=device=width,initial-scale=1.0">
 </head>
       <tittle>list of things</tittle>
-<body style= "background-color: rgba(180,10,120);">
+<body style= "background-color:rgb(180,10,120);">
      <dive style"">
            
 <P> are like</P>
@@ -18,7 +18,7 @@
               
   <p>color I like</p>
                 <ul type="Square">
-                  <old type="I"
+                  <ol type="I">
                    <li>blue</li>
                    <li>Green</li>
                    <li>white</li>
@@ -49,17 +49,18 @@
                  <li>football </li>
                 <li>Basketball</li>
                 <li>tennisball</li>
-         <P>Types of enginge</p>
+   <P>Types of enginge</p>
                 <ul type="squeeze">
                 <li>Motorcycle engine</li>
                 <li>aircraft engine</li>
                 <li>car engine</li>
 
-          <p>moving object</p>
+    <p>moving object</p>
               <ul type="squeeze">
-              <li>ship</li>
-              <li>boat</li>
-              <li/plane</li>
-              
+              <ol type="I">
+                <li>ship</li>
+                <li>boat</li>
+                <li/plane</li>
+              </ol>
  </body>
 </head>
