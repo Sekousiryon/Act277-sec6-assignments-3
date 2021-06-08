@@ -10,7 +10,7 @@
 <body style= "background-color: rgba(180,10,120);">
      <dive style"">
            
-<P>thing are like</P>
+<P> are like</P>
            <ul type="square">
                <li>Reading Books</li>
                <li>Watching Movies</li>
