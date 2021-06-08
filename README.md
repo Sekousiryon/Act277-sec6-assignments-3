@@ -51,43 +51,7 @@
             <ol type="I">
                  <li>Retirement</li>
                 <li>Recreation</li>
-           </ol>
-         </li>
-       </ul>
-    </div>
-  <hr>
-
-         <div style"">
-              <h3>List if Item</h3>
-              <ul type="square">
-                 <li>Item 1</li>
-                 <li>Item 2</li>
-                 <li>Item 3</li>
-                 <li>Item 4</li>
-         <ul type="circle">
-                 <li>sub-item 1</li>
-                 <li>sub-item 2</li>
-                 <li>sub-item 3</li>
-        <ul type="square">
-                 <li>sub-sub-item 1</li>
-                 <li>sub-sub-item 2</li>
-                 <li>sub-sub-item 3</li>
-        <ul type="disc">
-                 <li>sub-sub-item 1</li>
-                 <li>sub-sub-item 2</li>
-                 <li>sub-sub-item 3</li>
-                 <li>sub-sub-item 4</li>
-            </ul>
-         <li>sub-sub-item 4</li>
-            </ul>
-         <li>sub-item 4</li>
-            </ul>
-         <li>Item 5</li>
-         <li>Item 6</li>
-     </ul>
-  </div>
-<hr>
-     <div style"">
+         
                 <h3>Aircraft types</h3>
             <ul type="disc">
                      <li>General Aviation (piston-driven engines)</li>
