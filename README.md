@@ -52,16 +52,15 @@
                  <li>Retirement</li>
                 <li>Recreation</li>
          
-                <h3>Aircraft types</h3>
-            <ul type="disc">
+                <li>Aircraft types</li>
+            <ol type="●">
                      <li>General Aviation (piston-driven engines)</li>
-                     <ol type=""> 
+                     
                           <li>Single-Engine Aircraft</li>
-                          <ol type"I">
-                           <li>Tail Wheel</li>
+                          <li>Tail Wheel</li>
                            <li>Tricycle</li>
-                     </ol>
-                   <h4>Engine types</h4>
+                     </ol> type="●">
+                   <li>Engine types</li>
                      <li>Dual-Engine Aircraft</li>
                      <ol type="A">
                            <li>Wing-mounted engines
