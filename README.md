@@ -56,12 +56,6 @@
                 <li>aircraft engine</li>
                 <li>car engine</li>
 
-    <p>moving object</p>
-              <ul type="squeeze">
-              <ol type="I">
-                <li>ship</li>
-                <li>boat</li>
-                <li/plane</li>
-              </ol>
+    
  </body>
 </head>
