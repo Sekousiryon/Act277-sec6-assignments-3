@@ -7,7 +7,7 @@
        <meta name="viewport" contengt="width=device=width,initial-scale=1.0">
 </head>
       <tittle>list of things</tittle>
-<div style= "background-color:black; color:gold; width:auto; height 50px"></div>
+<div style= "background-color:black"></div>
      
            
 <P> are like</P>
