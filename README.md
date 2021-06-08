@@ -9,13 +9,14 @@
       <tittle>list of things</tittle>
 <body style= "background-color: rgba(180,10,120);">
      <dive style"">
-           <P>thing are like</P>
+           
+<P>thing are like</P>
            <ul type="square">
                <li>Reading Books</li>
                <li>Watching Movies</li>
                <li>Programming Language</li>
               
-                 <p>color</>
+                 <p>color</p>
                    <ul type="circle">
                    <li>blue</li>
                    <li>Green</li>
@@ -52,7 +53,8 @@
        <li>Play
             <ol type="I">
                  <li>football </li>
-                <li>Basketball </li>
+                <li>Basketball</li>
+                <li>tennisball</li>
          <P>Types of enginge</p>
                 <ul type="squeeze">
                 <li>Motorcycle engine</li>
