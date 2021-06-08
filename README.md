@@ -7,8 +7,8 @@
        <meta name="viewport" contengt="width=device=width,initial-scale=1.0">
 </head>
       <tittle>list of things</tittle>
-<body style= "background-color:rgb(180,10,120);">
-     <dive style"">
+<div style= "background-color:black; color:gold; width:auto; height 50px"></div>
+     
            
 <P> are like</P>
            <ul type="square">
