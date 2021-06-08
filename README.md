@@ -16,16 +16,14 @@
                <li>Watching Movies</li>
                <li>Programming Language</li>
               
-            <p>color I like</p>
-                   <ul type="Square">
+  <p>color I like</p>
+                <ul type="Square">
+                  <old type="I"
                    <li>blue</li>
                    <li>Green</li>
                    <li>white</li>
-                 
-  
-
-
-<div style="">
+                 </ol>
+  <div style="">
         <p>Four thing to expect in life</p>
                   <ul type="disc">
                   <li>Love
